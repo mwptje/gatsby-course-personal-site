@@ -11,7 +11,7 @@ const query = graphql`
         id
         title
         size
-        Url
+        url
         published
         image {
           childImageSharp {
