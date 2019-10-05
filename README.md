@@ -2,7 +2,7 @@
   Personal site example based on John Smilga's course Gatsby Tutorial and Projects
 </h1>
 
-[Link to finished project](https://gatsby-course-coffee-site.netlify.com/)
+[Link to finished project](https://gatsby-course-personal-site.netlify.com/)
 
 This repository uses:
 
