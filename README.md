@@ -1,4 +1,20 @@
+<h1 align="center">
+  Personal site example based on John Smilga's course Gatsby Tutorial and Projects
+</h1>
+
+[Link to finished project](https://gatsby-course-coffee-site.netlify.com/)
+
+This repository uses:
+
+* Gatsby
+* React
+* GraphQL
+* Strapi as a headless content server 
+  * Note: Strapi repository and setup  is not included
+* A manual deploy to Netlify is needed
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
